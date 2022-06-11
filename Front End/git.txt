@@ -1,0 +1,14 @@
+Basic GitHub commands
+
+Git: Open source software for version control.
+GitHub: Code hosting platform using Git.
+
+1) git –version to check version.
+2) Go inside the folder
+    a) git init – to add in git
+    b) git status – to check status of your file
+    c) git add . -- to stage all the files
+    d) git commit -m “Message” – to commit with message.
+    e) git log – to check all the commits
+    f) git config –global user.name “username”
+    h) git config –global user.email “email”
